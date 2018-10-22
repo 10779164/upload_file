@@ -15,6 +15,3 @@ else
 	echo -e "${red}不想写太多系统版本的判断，请使用centos的系统(内核版本>=3.10)${NC}"
 	exit 0
 fi
-
-
-~
